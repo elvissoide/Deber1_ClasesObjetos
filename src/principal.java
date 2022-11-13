@@ -14,6 +14,7 @@ public class principal {
         j1.setRango("Capitan");
         j1.setCodigo("758736");
         System.out.println("\nJugador 1");
+
         System.out.println("Arma: " + j1.getArma());
         System.out.println("Altura: " + j1.getAltura());
         System.out.println("Edad: " + j1.getEdad());
@@ -26,6 +27,7 @@ public class principal {
         j2.setEdad(44);
         j2.setRango("Coronel");
         j2.setCodigo("898872");
+
         System.out.println("\nJugador 2");
         System.out.println("Arma: " + j2.getArma());
         System.out.println("Altura: " + j2.getAltura());
@@ -40,6 +42,7 @@ public class principal {
         j3.setRango("General");
         j3.setCodigo("893432");
         System.out.println("\nJugador 3");
+
         System.out.println("Arma: " + j3.getArma());
         System.out.println("Altura: " + j3.getAltura());
         System.out.println("Edad: " + j3.getEdad());
